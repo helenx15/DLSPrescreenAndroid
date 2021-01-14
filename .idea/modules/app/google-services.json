@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "286685384326",
+    "firebase_url": "https://dls-covid-app.firebaseio.com",
+    "project_id": "dls-covid-app",
+    "storage_bucket": "dls-covid-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286685384326:android:04739b859b8cfde6178b07",
+        "android_client_info": {
+          "package_name": "com.helenxiao.DLSCovidAndroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286685384326-ig9lfpfbnthvabq4hsij74ml59nstihn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helenxiao.DLSCovidAndroid",
+            "certificate_hash": "7d30cd299579c88617407591c07aabe6f8b0c104"
+          }
+        },
+        {
+          "client_id": "286685384326-84nvndet5k6foqknfttfreh4lhfimch8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2IVZ6RL2Qr4mRAoU3MVr2y58HF0PHYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286685384326-84nvndet5k6foqknfttfreh4lhfimch8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286685384326-j22hhvgmlhhoi08ere281neejj9sll3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DLSPrescreen",
+                "app_store_id": "1518168234"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
